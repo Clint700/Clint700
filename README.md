@@ -1,57 +1,44 @@
-# 👋 Hi, I’m Clinton (@Clint700)
+# Clinton Onyekwere
 
-Founder & CEO of **Clinton AI Ltd**, an AI product studio & consultancy based in Leeds, UK.[page:2]  
-We build production-grade AI systems that solve real problems across e‑commerce, maritime procurement, education, and research.[page:2]
+Founder of Clinton AI Ltd. I design and build production AI systems.
 
----
-
-## 🚀 What I’m building
-
-- **Clinton AI Ltd** – UK‑registered AI product studio & consultancy focused on AI systems that empower people, not replace them.[page:2]  
-- **Katalyst** – AI product content platform for e‑commerce sellers (Amazon, Shopify, eBay, Etsy and more).[page:2]  
-- **PortQuote** – AI‑powered maritime procurement system with a 3‑stage, zero‑hallucination RFQ pipeline.[page:2]  
-- **ResearchMate** – AI research writing platform with RAG‑grounded citation generation (in development).[page:2]
+Based in Leeds, UK. Background in AI architecture, full-stack development, and systems that work in the real world, not just in demos.
 
 ---
 
-## 🧠 What I work on
+## What I Build
 
-- AI system architecture, LLM pipelines, multi‑model orchestration, evaluation & guardrails.  
-- Full‑stack product development (TypeScript, React, Node, PostgreSQL) and production deployment.[page:2]  
-- AI workflow automation and integration into real business processes (e‑commerce, maritime, education, research).[page:2]
+**Katalyst** -- AI product photography for e-commerce. Upload one photo, get marketplace-ready images for Amazon, Shopify, eBay, Etsy, and 7 more platforms. 54,000+ lines of TypeScript. Live at katalyst.clintonai.co.uk
 
----
+**PortQuote** -- AI-powered maritime procurement. 14 specialist pipelines classify, generate, and validate RFQ documents against real catalogue data. 2,000+ document groups processed with zero manual QA. 38,000 lines of TypeScript across 184 files.
 
-## 🎓 Background
+**ResearchMate** -- AI research and writing assistant with RAG-powered citation generation. Full-stack SaaS with project management, source collection, and structured document generation.
 
-- MSc Management (AI & Digital Transformation) – Leeds Beckett University.[page:2]  
-- Full Stack Developer – Northcoders.  
-- Cloud & Cybersecurity – University Academy 92.[page:2]
-
-I’ve designed and delivered production AI systems across e‑commerce, maritime procurement, education, sports analytics, and enterprise research, with a focus on reliability, auditability, and real business outcomes.[page:2]
+**Medallion Sports** -- Full-stack sports prediction platform. Python/FastAPI backend, React/TypeScript frontend, automated data pipelines, daily predictions for NBA and PGA. Built as sole engineer from scratch.
 
 ---
 
-## 🤝 How I collaborate
+## How I Work
 
-- AI product strategy, architecture, and implementation for teams who want production systems, not just demos.  
-- Codebases where AI is a core feature (not a bolt‑on), especially around RFQ flows, content pipelines, and research workflows.[page:2]
+I take a product from "here's the problem" to "it's live and people are using it." That includes architecture decisions, database design, API development, AI pipeline engineering, frontend, deployment, and ongoing iteration.
 
-If you’re working on a product in these spaces and need help with AI architecture, evaluation, or shipping something real, I’m interested.
+**Stack:** TypeScript, Python, React, Next.js, FastAPI, PostgreSQL, tRPC, Drizzle ORM, Supabase, Stripe, Claude/Gemini/OpenAI APIs, Google Apps Script, Cloudflare R2
 
----
-
-## 📫 How to reach me
-
-- Website: https://clintonai.co.uk/  
-- Email: clinton@clintonai.co.uk  
-- LinkedIn: https://www.linkedin.com/in/clinton-onyekwere/  
-- GitHub: you’re already here (@Clint700)
+**Focus areas:** AI pipeline architecture, multi-model orchestration, LLM evaluation and guardrails, prompt engineering, full-stack product development
 
 ---
 
-## ⚡ A bit more
+## Background
 
-- I believe **focus beats breadth** – one use case served deeply is worth more than ten served shallowly.  
-- I care about activation, retention, and real workflows more than vanity metrics.  
-- Fun fact: I still think chess is the best board game – but now most of my strategy happens in product roadmaps.
+- MSc Management (AI & Digital Transformation) -- Leeds Beckett University
+- Full Stack Developer -- Northcoders
+- Cloud & Cybersecurity -- University Academy 92
+- Upwork Top Rated Plus (top 3%), 100% Job Success Score, 20+ contracts
+
+---
+
+## Get in Touch
+
+- **Website:** clintonai.co.uk
+- **Email:** clinton@clintonai.co.uk
+- **LinkedIn:** linkedin.com/in/clinton-onyekwere
